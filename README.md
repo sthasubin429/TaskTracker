@@ -1,12 +1,16 @@
 # TaskTracker
 
-Simple Task Tracker using Angular
+Simple Task Tracker using Angular while learning angular.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Json server
+
+Run `npm run server` to run Json Server server. This is a mock to server to act as a backend.
 
 ## Code scaffolding
 
