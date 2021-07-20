@@ -1,0 +1,7 @@
+Generate new componetn 
+    ng generate component component/header
+    ng generate component folder/file 
+
+Generaate Service
+   ng generate service services/task
+   ng generate service folder/file
